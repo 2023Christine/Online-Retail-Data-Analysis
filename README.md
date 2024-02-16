@@ -12,7 +12,7 @@ The **[Online Retail Exploratory Data Analysis](Notebooks/Online%20Retail%20Expl
 
 ## Customer Segmentation
 
-The **Online Retail Customer Segmentation(Notebooks/Online%20Retail%20Customer%20Segmentation.ipynb)** notebook delves into uncovering latent patterns and customer segments within the dataset. By amalgamating RFM analysis and K-Means clustering, distinct customer segments are delineated based on Recency, Frequency, and Monetary Value. This phase aims to identify high-value customers and tailor strategies for optimal business outcomes.
+The **[Online Retail Customer Segmentation](Notebooks/Online%20Retail%20Customer%20Segmentation.ipynb)** notebook delves into uncovering latent patterns and customer segments within the dataset. By amalgamating RFM analysis and K-Means clustering, distinct customer segments are delineated based on Recency, Frequency, and Monetary Value. This phase aims to identify high-value customers and tailor strategies for optimal business outcomes.
 
 ### Dataset Overview
 
