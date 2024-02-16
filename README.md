@@ -8,7 +8,7 @@ The **[Online Retail Data Cleaning Notebook](Notebooks/Online%20Retail%20Data%20
 
 ## Exploratory Data Analysis (EDA)
 
-The **[Online Retail Exploratory Data Analysis](Notebooks/Online%20Retail%20Exploratory%20CData%20Analysis.ipynb)** notebook represents a critical phase in understanding the dataset's intricacies. Through meticulous examination and the application of statistical techniques, the notebook aims to extract meaningful patterns and correlations. The EDA phase encompasses Customer Analysis, Product Analysis, Time Analysis, and Country Analysis, providing insights into customer behavior, product dynamics, temporal trends, and country-specific insights.
+The **[Online Retail Exploratory Data Analysis](Notebooks/Online%20Retail%20Exploratory%20Data%20Analysis.ipynb)** notebook represents a critical phase in understanding the dataset's intricacies. Through meticulous examination and the application of statistical techniques, the notebook aims to extract meaningful patterns and correlations. The EDA phase encompasses Customer Analysis, Product Analysis, Time Analysis, and Country Analysis, providing insights into customer behavior, product dynamics, temporal trends, and country-specific insights.
 
 ## Customer Segmentation
 
