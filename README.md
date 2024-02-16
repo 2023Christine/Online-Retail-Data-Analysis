@@ -4,15 +4,15 @@ This project focuses on analyzing the UCI Machine Learning Repository dataset re
 
 ## Data Cleaning
 
-The **Online Retail Data Cleaning** notebook addresses the crucial task of refining and preparing the dataset for analysis. Various techniques are employed to handle missing values, outliers, and inconsistencies, ensuring the creation of a clean and reliable dataset. The cleaned dataset serves as a robust foundation for subsequent data analysis and modeling tasks.
+The **[Online Retail Data Cleaning Notebook](Notebooks/Online%20Retail%20Data%20Cleaning.ipynb)** notebook addresses the crucial task of refining and preparing the dataset for analysis. Various techniques are employed to handle missing values, outliers, and inconsistencies, ensuring the creation of a clean and reliable dataset. The cleaned dataset serves as a robust foundation for subsequent data analysis and modeling tasks.
 
 ## Exploratory Data Analysis (EDA)
 
-The **Online Retail Exploratory Data Analysis** notebook represents a critical phase in understanding the dataset's intricacies. Through meticulous examination and the application of statistical techniques, the notebook aims to extract meaningful patterns and correlations. The EDA phase encompasses Customer Analysis, Product Analysis, Time Analysis, and Country Analysis, providing insights into customer behavior, product dynamics, temporal trends, and country-specific insights.
+The **[Online Retail Exploratory Data Analysis](Notebooks/Online%20Retail%20Exploratory%20CData%20Analysis.ipynb)** notebook represents a critical phase in understanding the dataset's intricacies. Through meticulous examination and the application of statistical techniques, the notebook aims to extract meaningful patterns and correlations. The EDA phase encompasses Customer Analysis, Product Analysis, Time Analysis, and Country Analysis, providing insights into customer behavior, product dynamics, temporal trends, and country-specific insights.
 
 ## Customer Segmentation
 
-The **Online Retail Customer Segmentation** notebook delves into uncovering latent patterns and customer segments within the dataset. By amalgamating RFM analysis and K-Means clustering, distinct customer segments are delineated based on Recency, Frequency, and Monetary Value. This phase aims to identify high-value customers and tailor strategies for optimal business outcomes.
+The **Online Retail Customer Segmentation(Notebooks/Online%20Retail%20Customer%20Segmentation.ipynb)** notebook delves into uncovering latent patterns and customer segments within the dataset. By amalgamating RFM analysis and K-Means clustering, distinct customer segments are delineated based on Recency, Frequency, and Monetary Value. This phase aims to identify high-value customers and tailor strategies for optimal business outcomes.
 
 ### Dataset Overview
 
